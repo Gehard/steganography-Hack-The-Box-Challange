@@ -1,2 +1,9 @@
 # steganography-Hack-The-Box-Challange
-Trying to  find out the secret which is hidden inside of the pictures
+Try to find out the secret which is hiding inside of these pictures and learn the truth about Mona Lisa!
+
+SOLUTION
+I used: 1. steghide
+        2. binwalk
+        3. base64 to decode
+       
+       
